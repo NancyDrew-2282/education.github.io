@@ -1,0 +1,28 @@
+.site-header{
+    background-color: beige;
+    color: saddlebrown;
+    height: 100vh;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+body{
+    margin: 0;
+}
+.profile-pic{
+    border-radius: 50%;
+    align-self: left;
+    /* box-shadow: black 2px 2px 12px; */
+    border: 2px brown;
+    
+}
+.site-header-content{
+    margin: 0;
+}
+
+.medium-link{
+
+}
